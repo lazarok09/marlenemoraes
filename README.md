@@ -6,7 +6,7 @@
 
 <p align="center"><b>Desenvolvedora e Analista de Dados em formação</b></p>  
 
-- <img src=".\img\MarleneMoraes_por_NanciYin.png" alt="Marlene em aquarela por Nanci Yin"  width="200px" align="right"/>Estou em busca de oportunidades para desenvolver e obter novos conhecimentos na prática, especialmente relacionado a Desenvolvimento Web e Análise de Dados. 🖥️
+- <img src=".\img\MarleneMoraes_por_NanciYin.png" alt="Marlene em aquarela por Nanci Yin"  width="150px" align="right"/>Estou em busca de oportunidades para desenvolver e obter novos conhecimentos na prática, especialmente relacionado a Desenvolvimento Web e Análise de Dados. 🖥️
 
 - Apaixonada tanto pelo tradicional livro quanto às tecnologias, decidi cursar Sistemas de Informação na Pontifícia Universidade Católica de Minas Gerais (PUC-MG) :mortar_board:
 
@@ -21,13 +21,14 @@
 
 
 <div class="socialmedia" align="right">
-    <a src="https://www.instagram.com/marlenevmoraes/" target="blank"><img width="50px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-512.png" alt="Instagram"></a>
-    <a src="https://br.pinterest.com/MarlenevMoraes/" target="blank"><img width="65px" src="https://i.pinimg.com/originals/75/9b/0a/759b0a659e1c40cae0ad5e40e1572181.png" alt="Pinterest"></a>
-    <a src="https://codepen.io/marlenemoraes" target="blank"><img width="50px" src="https://img2.freepng.es/20180528/vhz/kisspng-computer-icons-codepen-5b0bfe9c2ae916.2312253115275127321758.jpg" alt="CodePen"></a>
-    <a src="https://replit.com/@MarleneMoraes" target="blank"><img width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Repl.it_logo.svg/768px-Repl.it_logo.svg.png" alt="Repl.it"></a>
-    <a src="https://www.linkedin.com/in/marlenemoraes/" target="blank"><img width="60px" src="https://www.seekpng.com/png/detail/8-84419_linkedin-logo-png-icon-linkedin-logo-png.png"alt="LinkedIn"></a>
-     <a src="mailto: marlenevmoraes@outlook.com" target="blank"><img width="50px" src="https://findicons.com/files/icons/2795/office_2013_hd/2000/outlook.png"alt="Outlook"></a>
+    <a href="https://www.instagram.com/marlenevmoraes/" target="blank"><img width="50px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-512.png" alt="Instagram"/></a>
+    <a href="https://br.pinterest.com/MarlenevMoraes/" target="blank"><img width="65px" src="https://i.pinimg.com/originals/75/9b/0a/759b0a659e1c40cae0ad5e40e1572181.png" alt="Pinterest"></a>
+    <a href="https://codepen.io/marlenemoraes" target="blank"><img width="50px" src="https://img2.freepng.es/20180528/vhz/kisspng-computer-icons-codepen-5b0bfe9c2ae916.2312253115275127321758.jpg" alt="CodePen"></a>
+    <a href="https://replit.com/@MarleneMoraes" target="blank"><img width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Repl.it_logo.svg/768px-Repl.it_logo.svg.png" alt="Repl.it"></a>
+    <a href="https://www.linkedin.com/in/marlenemoraes/" target="blank"><img width="60px" src="https://www.seekpng.com/png/detail/8-84419_linkedin-logo-png-icon-linkedin-logo-png.png"alt="LinkedIn"></a>
+     <a href="mailto: marlenevmoraes@outlook.com" target="blank"><img width="50px" src="https://findicons.com/files/icons/2795/office_2013_hd/2000/outlook.png"alt="Outlook"></a>
 </div>
+
 
 
 
@@ -38,17 +39,17 @@
 
 > <h3>Tecnologias</h3>
 
-
 <div class="socialmedia" align="center">
     <picture>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="70px">
-      <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg alt="CSS3" width="70px">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="70px">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="70px">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="70px"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="70px"/>
+   		<a href="https://github.com/MarleneMoraes/" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="70px"></a>
+        <a href="https://github.com/MarleneMoraes/" target="blank"><img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg alt="CSS3" width="70px"></a>
+        <a href="https://github.com/MarleneMoraes/" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="70px"></a>
+        <a href="https://github.com/MarleneMoraes/" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="70px"></a>
+        <a href="https://github.com/MarleneMoraes/" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="70px"/></a>
+        <a href="https://github.com/MarleneMoraes/" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="70px"/></a>
     </picture>
 </div>
+
 
 
 
