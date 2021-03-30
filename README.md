@@ -19,13 +19,14 @@
 
 
 <div class="socialmedia" align="right">
-    <a src="https://www.instagram.com/marlenevmoraes/"><img width="50px" src="https://www.flaticon.com/svg/vstatic/svg/1409/1409946.svg?token=exp=1617059025~hmac=88756ba21c2f37395c3b45ca65a5fc54" alt="Instagram"></a>
-    <a src="https://br.pinterest.com/MarlenevMoraes/"><img width="50px" src="https://www.flaticon.com/svg/vstatic/svg/145/145808.svg?token=exp=1617061615~hmac=d06977daea013226dacc8c26e56d39f1" alt="Pinterest"></a>
-    <a src="https://codepen.io/marlenemoraes"><img width="50px" src="https://www.flaticon.com/svg/vstatic/svg/785/785252.svg?token=exp=1617065281~hmac=2e672e7409aa3d9041a77fd0fa4533b4" alt="CodePen"></a>
-    <a src="https://replit.com/@MarleneMoraes"><img width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Repl.it_logo.svg/768px-Repl.it_logo.svg.png" alt="Repl.it"></a>
-    <a src="https://www.linkedin.com/in/marlenemoraes/"><img width="50px" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1617061521~hmac=3d09c9d9904afacffbbefb5d05cbae33"alt="LinkedIn"></a>
-     <a src="mailto: marlenevmoraes@outlook.com"><img width="50px" src="https://www.flaticon.com/svg/vstatic/svg/732/732223.svg?token=exp=1617061835~hmac=e9ff0cd895acbb02727e8b621a816e91"alt="Outlook"></a>
+    <a src="https://www.instagram.com/marlenevmoraes/"><img width="50px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-512.png" alt="Instagram"></a>
+    <a src="https://br.pinterest.com/MarlenevMoraes/"><img width="65px" src="https://i.pinimg.com/originals/75/9b/0a/759b0a659e1c40cae0ad5e40e1572181.png" alt="Pinterest"></a>
+    <a src="https://codepen.io/marlenemoraes"><img width="58px" src="https://blog.codepen.io/wp-content/uploads/2012/06/Button-Fill-Black-Large.png" alt="CodePen"></a>
+    <a src="https://replit.com/@MarleneMoraes"><img width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Repl.it_logo.svg/768px-Repl.it_logo.svg.png" alt="Repl.it"></a>
+    <a src="https://www.linkedin.com/in/marlenemoraes/"><img width="60px" src="https://www.seekpng.com/png/detail/8-84419_linkedin-logo-png-icon-linkedin-logo-png.png"alt="LinkedIn"></a>
+     <a src="mailto: marlenevmoraes@outlook.com"><img width="50px" src="https://findicons.com/files/icons/2795/office_2013_hd/2000/outlook.png"alt="Outlook"></a>
 </div>
+
 
 
 
