@@ -21,11 +21,12 @@
 <div class="socialmedia" align="right">
     <a src="https://www.instagram.com/marlenevmoraes/"><img width="50px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-512.png" alt="Instagram"></a>
     <a src="https://br.pinterest.com/MarlenevMoraes/"><img width="65px" src="https://i.pinimg.com/originals/75/9b/0a/759b0a659e1c40cae0ad5e40e1572181.png" alt="Pinterest"></a>
-    <a src="https://codepen.io/marlenemoraes"><img width="58px" src="https://blog.codepen.io/wp-content/uploads/2012/06/Button-Fill-Black-Large.png" alt="CodePen"></a>
+    <a src="https://codepen.io/marlenemoraes"><img width="50px" src="https://img2.freepng.es/20180528/vhz/kisspng-computer-icons-codepen-5b0bfe9c2ae916.2312253115275127321758.jpg" alt="CodePen"></a>
     <a src="https://replit.com/@MarleneMoraes"><img width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Repl.it_logo.svg/768px-Repl.it_logo.svg.png" alt="Repl.it"></a>
     <a src="https://www.linkedin.com/in/marlenemoraes/"><img width="60px" src="https://www.seekpng.com/png/detail/8-84419_linkedin-logo-png-icon-linkedin-logo-png.png"alt="LinkedIn"></a>
      <a src="mailto: marlenevmoraes@outlook.com"><img width="50px" src="https://findicons.com/files/icons/2795/office_2013_hd/2000/outlook.png"alt="Outlook"></a>
 </div>
+
 
 
 
