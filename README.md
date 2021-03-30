@@ -14,7 +14,7 @@
 
   
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=marlenemoraes&color=blueviolet" alt="Contagem de views de MarleneMoraes"/> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=marlenemoraes&color=blueviolet" alt="Contagem de views de MarleneMoraes"/> </p>
 
 
 
@@ -40,11 +40,12 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="70px"></a>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="70px">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50px">
-    <img src="https://www.flaticon.com/svg/vstatic/svg/226/226777.svg?token=exp=1617064493~hmac=36badb66b5fb471dd9e5512d23b17ae8" alt="Java" width="70px">
-      <img src="https://www.flaticon.com/svg/vstatic/svg/226/226772.svg?token=exp=1617064621~hmac=db6bece160010d16af1da77c94278fed" alt="linux" width="70px"/>
+    <img src="https://cdn.iconscout.com/icon/free/png-512/java-43-569305.png" alt="Java" width="70px">
+      <img src="https://icons.iconarchive.com/icons/tatice/operating-systems/256/Linux-icon.png" alt="linux" width="70px"/>
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="70px"/>
     </picture>
 </div>
+
 
 
 
