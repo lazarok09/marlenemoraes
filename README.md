@@ -1,4 +1,4 @@
-<p align="right"> Bem vindos ao meu &nbsp;<img align="right" src="https://img.shields.io/badge/-GitHub-333333?style=for-the-badge&logo=GitHub"></p>
+<p align="right"> Bem vindos ao meu <img align="right" src="https://img.shields.io/badge/-GitHub-333333?style=for-the-badge&logo=GitHub"></p>
 
 
 
@@ -13,9 +13,9 @@
 - Já possuo a formação em Biblioteconomia e Gestão da Informação e, por isso, tenho interesse em Banco de Dados. Mas já me apaixonei também pelo *Front-end*. Ainda bem que existe o *Full-Stack*, não é mesmo? :sweat_smile:
 
   
-  
 
-<img align="center" src="https://komarev.com/ghpvc/?username=marlenemoraes&color=blueviolet" alt="Contagem de views de MarleneMoraes"/>
+<div align="center">
+    <img src="https://komarev.com/ghpvc/?username=marlenemoraes&color=blueviolet" alt="Contagem de views de MarleneMoraes"/>	</div>
 
 
 
@@ -37,13 +37,14 @@
     <figure>
    		<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-         <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+         <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
         <img src="https://img.shields.io/badge/Git-ED8B00?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
     </figure>
 </div>
 
+<br/>
 
 
 > ### Outros Conhecimentos
@@ -52,21 +53,24 @@
     <figure>
    		<img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" alt="Word" />
         <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" />
-        <img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" alt="PowerPoint">
-        <img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" alt="SAP">
-        <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="MD">
+        <img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" alt="PowerPoint" />
+        <img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" alt="SAP" />
+        <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="MD" />
     </figure>
 </div>
 
-
-
+<br/>
 
 >  ### Status
 
 
 
-<img align="center" height="195em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=marlenemoraes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<div class="GitHub-status" align="center">
+    <img height="195em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=marlenemoraes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+    <img height="273em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=marlenemoraes&layout=compact&langs_count=8&theme=tokyonight" />
+</div>
 
 
 
-<img align="center" height="273em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=marlenemoraes&layout=compact&langs_count=8&theme=tokyonight"/>
+
+
