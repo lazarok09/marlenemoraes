@@ -1,10 +1,10 @@
-<p align="right"> Bem vindos ao meu GitHub! <img align="right" width="30px" src="https://image.flaticon.com/icons/png/512/25/25231.png"></p>
+<p align="right"> Bem vindos ao meu &nbsp;<img align="right" src="https://img.shields.io/badge/-GitHub-333333?style=for-the-badge&logo=GitHub"></p>
 
 
 
 <h2 align="center">Eu sou Marlene Moraes 👩🏽‍💻</h2> 
 
-<p align="center"><b>Desenvolvedora e Analista de Dados em formação</b></p>  
+<p align="center"><b>Desenvolvedora Front-End e Analista de Dados em formação</b></p>  
 
 - <img src=".\img\MarleneMoraes_por_NanciYin.png" alt="Marlene em aquarela por Nanci Yin"  width="150px" align="right"/>Estou em busca de oportunidades para desenvolver e obter novos conhecimentos na prática, especialmente relacionado a Desenvolvimento Web e Análise de Dados. 🖥️
 
@@ -14,51 +14,59 @@
 
   
   
-  
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=marlenemoraes&color=blueviolet" alt="Contagem de views de MarleneMoraes"/> </p>
+<img align="center" src="https://komarev.com/ghpvc/?username=marlenemoraes&color=blueviolet" alt="Contagem de views de MarleneMoraes"/>
 
 
 
 <div class="socialmedia" align="right">
-    <a href="https://codepen.io/marlenemoraes" target="blank"><img width="50px" src="https://img2.freepng.es/20180528/vhz/kisspng-computer-icons-codepen-5b0bfe9c2ae916.2312253115275127321758.jpg" alt="CodePen"></a>
-    <a href="https://replit.com/@MarleneMoraes" target="blank"><img width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Repl.it_logo.svg/768px-Repl.it_logo.svg.png" alt="Repl.it"></a>
-    <a href="https://www.linkedin.com/in/marlenemoraes/" target="blank"><img width="60px" src="https://www.seekpng.com/png/detail/8-84419_linkedin-logo-png-icon-linkedin-logo-png.png"alt="LinkedIn"></a>
-     <a href="mailto: marlenevmoraes@outlook.com" target="blank"><img width="50px" src="https://findicons.com/files/icons/2795/office_2013_hd/2000/outlook.png"alt="Outlook"></a>
+    <a href="https://codepen.io/marlenemoraes" target="blank"><img src="https://img.shields.io/badge/-CodePen-333333?style=flat&logo=CodePen" alt="CodePen"></a>
+    <a href="https://replit.com/@MarleneMoraes" target="blank"><img src="https://img.shields.io/badge/-Repl.it-333333?style=flat&logo=Repl.it" alt="Repl.it"></a>
+    <a href="https://www.linkedin.com/in/marlenemoraes/" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=LinkedIn"alt="LinkedIn"></a>
+     <a href="mailto: marlenevmoraes@outlook.com" target="blank"><img src="https://img.shields.io/badge/-Microsoft_Outlook-333333?style=flat&logo=microsoft-outlook"alt="Outlook"></a>
 </div>
-
-
-
 
 
 
 <hr>
 
 
+> ### Tecnologias
 
-> <h3>Tecnologias</h3>
+<div class="skills" align="center">
+    <figure>
+   		<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+         <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
+       <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+        <img src="https://img.shields.io/badge/Git-ED8B00?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+    </figure>
+</div>
 
-<div class="socialmedia" align="center">
-    <picture>
-   		<a href="https://github.com/MarleneMoraes/" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="70px"></a>
-        <a href="https://github.com/MarleneMoraes/" target="blank"><img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg alt="CSS3" width="70px"></a>
-        <a href="https://github.com/MarleneMoraes/" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="70px"></a>
-        <a href="https://github.com/MarleneMoraes/" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="70px"></a>
-        <a href="https://github.com/MarleneMoraes/" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="70px"/></a>
-        <a href="https://github.com/MarleneMoraes/" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="70px"/></a>
-    </picture>
+
+
+> ### Outros Conhecimentos
+
+<div class="otherskills" align="center">
+    <figure>
+   		<img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" alt="Word" />
+        <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" />
+        <img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" alt="PowerPoint">
+        <img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" alt="SAP">
+        <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="MD">
+    </figure>
 </div>
 
 
 
 
-
->  <h3>Status</h3>
-
-
-
-<img height="195em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=marlenemoraes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+>  ### Status
 
 
 
-<img height="273em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=marlenemoraes&layout=compact&langs_count=8&theme=tokyonight"/>
+<img align="center" height="195em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=marlenemoraes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+
+
+<img align="center" height="273em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=marlenemoraes&layout=compact&langs_count=8&theme=tokyonight"/>
