@@ -25,6 +25,10 @@
     <a href="https://www.linkedin.com/in/marlenemoraes/" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=LinkedIn"alt="LinkedIn"></a>
      <a href="mailto: marlenevmoraes@outlook.com" target="blank"><img src="https://img.shields.io/badge/-Microsoft_Outlook-333333?style=flat&logo=microsoft-outlook"alt="Outlook"></a>
 </div>
+<div class="README-languages">
+    <a href="https://github.com/MarleneMoraes/marlenemoraes/blob/main/README-en.md"><img src="https://img.shields.io/badge/English%20-%23323330.svg?&style=for-the-badge&logo=perfil&logoColor=black&color=red" /></a>
+</div>
+
 
 
 
@@ -67,10 +71,9 @@
 
 
 
-<div class="GitHub-status">
-    <img height="195em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=marlenemoraes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-    <img height="273em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=marlenemoraes&layout=compact&langs_count=8&theme=tokyonight" />
-</div>
+<img height="195em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=marlenemoraes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+<img height="273em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=marlenemoraes&layout=compact&langs_count=8&theme=tokyonight"/>
 
 
 
