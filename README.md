@@ -16,7 +16,7 @@
 
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=marlenemoraes&color=blueviolet" alt="Contagem de views de MarleneMoraes"/>	</div>
-
+<br/>
 
 
 <div class="socialmedia" align="right">
@@ -33,7 +33,7 @@
 
 > ### Tecnologias
 
-<div class="skills" align="center">
+<div class="skills">
     <figure>
    		<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
@@ -44,12 +44,13 @@
     </figure>
 </div>
 
+
 <br/>
 
 
 > ### Outros Conhecimentos
 
-<div class="otherskills" align="center">
+<div class="otherskills">
     <figure>
    		<img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" alt="Word" />
         <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" />
@@ -59,13 +60,14 @@
     </figure>
 </div>
 
+
 <br/>
 
 >  ### Status
 
 
 
-<div class="GitHub-status" align="center">
+<div class="GitHub-status">
     <img height="195em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=marlenemoraes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
     <img height="273em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=marlenemoraes&layout=compact&langs_count=8&theme=tokyonight" />
 </div>
