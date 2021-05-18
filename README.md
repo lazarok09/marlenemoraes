@@ -1,22 +1,21 @@
-<p align="right"> Bem vindos ao meu <img align="right" src="https://img.shields.io/badge/-GitHub-333333?style=for-the-badge&logo=GitHub"></p>
+<p align="right"> Welcome to my &nbsp;<img align="right" src="https://img.shields.io/badge/-GitHub-333333?style=for-the-badge&logo=GitHub"></p>
 
 
 
-<h2 align="center">Eu sou Marlene Moraes 👩🏽‍💻</h2> 
+<h2 align="center">I'm Marlene Moraes 👩🏽‍💻</h2> 
 
-<p align="center"><b>Desenvolvedora Front-End e Analista de Dados em formação</b></p>  
+<p align="center"><b>Developer and Data Analist in progress</b></p>  
 
-- <img src=".\img\MarleneMoraes_por_NanciYin.png" alt="Marlene em aquarela por Nanci Yin"  width="150px" align="right"/>Estou em busca de oportunidades para desenvolver e obter novos conhecimentos na prática, especialmente relacionado a Desenvolvimento Web e Análise de Dados. 🖥️
+- <img src=".\img\MarleneMoraes_por_NanciYin.png" alt="Marlene em aquarela por Nanci Yin"  width="150px" align="right"/> I'm searching a opportunity to develop and learn new technical knowledge, especially for the positions of Front-End Jr Development, IT Internship and Data Internship. 🖥️
 
-- Apaixonada tanto pelo tradicional livro quanto às tecnologias, decidi cursar Sistemas de Informação na Pontifícia Universidade Católica de Minas Gerais (PUC-MG) :mortar_board:
+- Passionate about the traditional book and the technologies, I decided to study Information System at Pontifical Catholic University of Minas Gerais (PUC-Minas) :mortar_board:
 
-- Já possuo a formação em Biblioteconomia e Gestão da Informação e, por isso, tenho interesse em Banco de Dados. Mas já me apaixonei também pelo *Front-end*. Ainda bem que existe o *Full-Stack*, não é mesmo? :sweat_smile:
+- I graduated in Librarianship and Information Management at Federal University of Rio de Janeiro and, because of that, I have interest in Databases and Back-end position. But, I have admiration in the area of Design also made me look at the Front-End. It's a great thing that there is Full-Stack position, isn't it? :sweat_smile:
 
   
 
-<div align="center">
-    <img src="https://komarev.com/ghpvc/?username=marlenemoraes&color=blueviolet" alt="Contagem de views de MarleneMoraes"/>	</div>
-<br/>
+<img align="center" src="https://komarev.com/ghpvc/?username=marlenemoraes&color=blueviolet" alt="Contagem de views de MarleneMoraes"/>
+
 
 
 <div class="socialmedia" align="right">
@@ -26,7 +25,7 @@
      <a href="mailto: marlenevmoraes@outlook.com" target="blank"><img src="https://img.shields.io/badge/-Microsoft_Outlook-333333?style=flat&logo=microsoft-outlook"alt="Outlook"></a>
 </div>
 <div class="README-languages">
-    <a href="https://github.com/MarleneMoraes/marlenemoraes/blob/main/README-en.md"><img src="https://img.shields.io/badge/English%20-%23323330.svg?&style=for-the-badge&logo=perfil&logoColor=black&color=red" /></a>
+    <a href="https://github.com/MarleneMoraes/marlenemoraes/blob/main/README.md"><img src="https://img.shields.io/badge/Portugu%C3%AAs%20do%20Brasil%20-%23323330.svg?&style=for-the-badge&logo=brazil&color=#033202" /></a>
 </div>
 
 
@@ -34,37 +33,37 @@
 
 
 
-> ### Tecnologias
+> ### Tech Skills
 
 <div class="skills">
     <figure>
    		<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-         <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+         <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
         <img src="https://img.shields.io/badge/Git-ED8B00?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
     </figure>
 </div>
 
 
-<br/>
 
 
-> ### Outros Conhecimentos
+> ### Other Skills
 
 <div class="otherskills">
     <figure>
    		<img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" alt="Word" />
         <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" />
-        <img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" alt="PowerPoint" />
-        <img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" alt="SAP" />
-        <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="MD" />
+        <img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" alt="PowerPoint">
+        <img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" alt="SAP">
+        <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="MD">
     </figure>
 </div>
 
 
-<br/>
+
+
 
 >  ### Status
 
@@ -72,9 +71,6 @@
 
 <img height="195em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=marlenemoraes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
+
+
 <img height="273em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=marlenemoraes&layout=compact&langs_count=8&theme=tokyonight"/>
-
-
-
-
-
