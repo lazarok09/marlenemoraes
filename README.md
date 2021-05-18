@@ -18,7 +18,6 @@
     <img src="https://komarev.com/ghpvc/?username=marlenemoraes&color=blueviolet" alt="Contagem de views de MarleneMoraes"/>	</div>
 <br/>
 
-
 <div class="socialmedia" align="right">
     <a href="https://codepen.io/marlenemoraes" target="blank"><img src="https://img.shields.io/badge/-CodePen-333333?style=flat&logo=CodePen" alt="CodePen"></a>
     <a href="https://replit.com/@MarleneMoraes" target="blank"><img src="https://img.shields.io/badge/-Repl.it-333333?style=flat&logo=Repl.it" alt="Repl.it"></a>
@@ -26,8 +25,9 @@
      <a href="mailto: marlenevmoraes@outlook.com" target="blank"><img src="https://img.shields.io/badge/-Microsoft_Outlook-333333?style=flat&logo=microsoft-outlook"alt="Outlook"></a>
 </div>
 <div class="README-languages">
-    <a href="https://github.com/MarleneMoraes/marlenemoraes/blob/main/README-en.md"><img src="https://img.shields.io/badge/English%20-%23323330.svg?&style=for-the-badge&logo=perfil&logoColor=black&color=red" /></a>
+    <a href="https://github.com/MarleneMoraes/MarleneMoraes/tree/english"><img src="https://img.shields.io/badge/English%20-%23323330.svg?&style=for-the-badge&logo=perfil&logoColor=black&color=red" /></a>
 </div>
+
 
 
 ***
