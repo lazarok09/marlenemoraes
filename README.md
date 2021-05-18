@@ -30,9 +30,8 @@
 </div>
 
 
+***
 
-
-<hr>
 
 
 > ### Tecnologias

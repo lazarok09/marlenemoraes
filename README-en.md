@@ -13,7 +13,6 @@
 - I graduated in Librarianship and Information Management at Federal University of Rio de Janeiro and, because of that, I have interest in Databases and Back-end position. But, I have admiration in the area of Design also made me look at the Front-End. It's a great thing that there is Full-Stack position, isn't it? :sweat_smile:
 
   
-  
 
 <img align="center" src="https://komarev.com/ghpvc/?username=marlenemoraes&color=blueviolet" alt="Contagem de views de MarleneMoraes"/>
 
@@ -30,7 +29,8 @@
 </div>
 
 
-<hr>
+***
+
 
 
 > ### Tech Skills
