@@ -4,7 +4,7 @@
 
 <h2 align="center">Eu sou Marlene Moraes 👩🏽‍💻</h2> 
 
-<p align="center"><b>Desenvolvedora Front-End e Analista de Dados em formação</b></p>  
+<p align="center"><b>Desenvolvedora Full Stack e Analista de Dados em formação</b></p>  
 
 - <img src=".\img\MarleneMoraes_por_NanciYin.png" alt="Marlene em aquarela por Nanci Yin"  width="150px" align="right"/>Estou em busca de oportunidades para desenvolver e obter novos conhecimentos na prática, especialmente relacionado a Desenvolvimento Web e Análise de Dados. 🖥️
 
