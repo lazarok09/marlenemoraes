@@ -4,7 +4,7 @@
 
 <h2 align="center">I'm Marlene Moraes 👩🏽‍💻</h2> 
 
-<p align="center"><b>Developer and Data Analist in progress</b></p>  
+<p align="center"><b>Full Stack Developer and Data Analist in progress</b></p>  
 
 - <img src=".\img\MarleneMoraes_por_NanciYin.png" alt="Marlene em aquarela por Nanci Yin"  width="150px" align="right"/> I'm searching a opportunity to develop and learn new technical knowledge, especially for the positions of Front-End Jr Development, IT Internship and Data Internship. 🖥️
 
