@@ -32,8 +32,6 @@
 
 ***
 
-
-
 > ### Tecnologias
 
 <div class="skills">
@@ -48,8 +46,6 @@
        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
     </figure>
 </div>
-<img height="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marlenemoraes&layout&hide=html,css&theme=tokyonight">
-
 
 <br/>
 
@@ -65,13 +61,13 @@
         <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="MD" />
     </figure>
 </div>
-
-
 <br/>
 
-### 
+> ### Status
 
 <img height="195em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=marlenemoraes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
 
+
+<img height="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marlenemoraes&layout&hide=html,css&theme=tokyonight">
 
