@@ -6,9 +6,9 @@
 
 <p align="center"><b>Desenvolvedora Full Stack e Analista de Dados em formação</b></p>  
 
-- <img src=".\img\MarleneMoraes_por_NanciYin.png" alt="Marlene em aquarela por Nanci Yin"  width="150px" align="right"/>Estou em busca de oportunidades para desenvolver e obter novos conhecimentos na prática, especialmente relacionado a Desenvolvimento Web e Análise de Dados. 🖥️
+- <img src=".\img\MarleneMoraes_por_NanciYin.png" alt="Marlene em aquarela por Nanci Yin"  width="150px" align="right"/>Trabalho como estagiária de desenvolvimento .NET na LIONS - Proteção Veicular 🦁
 
-- Apaixonada tanto pelo tradicional livro quanto às tecnologias, decidi cursar Sistemas de Informação na Pontifícia Universidade Católica de Minas Gerais (PUC-MG) :mortar_board:
+- No mundo acadêmico, curso Engenharia de Software na Pontifícia Universidade Católica de Minas Gerais (PUC-MG) 🎓
 
 - Já possuo a formação em Biblioteconomia e Gestão da Informação e, por isso, tenho interesse em Banco de Dados. Mas já me apaixonei também pelo *Front-end*. Ainda bem que existe o *Full-Stack*, não é mesmo? :sweat_smile:
 
