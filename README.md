@@ -6,11 +6,12 @@
 
 <p align="center"><b>Full Stack Developer and Data Analist in progress</b></p>  
 
-- <img src=".\img\MarleneMoraes_por_NanciYin.png" alt="Marlene em aquarela por Nanci Yin"  width="150px" align="right"/> I'm searching a opportunity to develop and learn new technical knowledge, especially for the positions of Front-End Jr Development, IT Internship and Data Internship. 🖥️
 
-- Passionate about the traditional book and the technologies, I decided to study Information System at Pontifical Catholic University of Minas Gerais (PUC-Minas) :mortar_board:
+- <img src=".\img\MarleneMoraes_por_NanciYin.png" alt="Marlene em aquarela por Nanci Yin"  width="150px" align="right"/> I'm work as Developer .NET Intern in LIONS - Proteção Veicular 🦁
 
-- I graduated in Librarianship and Information Management at Federal University of Rio de Janeiro and, because of that, I have interest in Databases and Back-end position. But, I have admiration in the area of Design also made me look at the Front-End. It's a great thing that there is Full-Stack position, isn't it? :sweat_smile:
+- In academic world, I study Software Engineer in Pontifical Catholic University of Minas Gerais (PUC-Minas) 🎓
+
+- I graduated in Librarianship and Information Management at Federal University of Rio de Janeiro and, because of that, I have interest in Databases and Back-end position. But, I have admiration in the area of Design also made me look at the Front-End. It's a great thing that there is Full-Stack position, isn't it? 😅
 
   
 
