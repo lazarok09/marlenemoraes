@@ -54,7 +54,7 @@ No mundo acadêmico, curso Engenharia de Software na Pontifícia Universidade Ca
         <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
         <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt="Dotnet"/>
         <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C sharp" />
-        <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+        <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"  alt="SQL Server"/>
     </figure>
 </div>
 
@@ -62,7 +62,7 @@ No mundo acadêmico, curso Engenharia de Software na Pontifícia Universidade Ca
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=marlenemoraes&theme=tokyonight&hide_border=false"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=marlenemoraes&theme=tokyonight&hide_border=false" align="center"/>
 
 
 
