@@ -18,9 +18,6 @@ In the academic world, I studied Software Engineering at the Pontifical Catholic
     <a href="https://www.linkedin.com/in/marlenemoraes/" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=LinkedIn"alt="LinkedIn"></a>
      <a href="mailto: marlenevmoraes@outlook.com" target="blank"><img src="https://img.shields.io/badge/-Microsoft_Outlook-333333?style=flat&logo=microsoft-outlook"alt="Outlook"></a>
 </div>
-
-<img align="center" src="https://komarev.com/ghpvc/?username=marlenemoraes&color=blueviolet" alt="Contagem de views de MarleneMoraes"/>
-
 <a href="https://github.com/MarleneMoraes/marlenemoraes/blob/main/README.md"><img src="https://img.shields.io/badge/Portugu%C3%AAs%20do%20Brasil%20-%23323330.svg?&style=for-the-badge&logo=brazil&color=#033202" /></a>
 
 
@@ -41,5 +38,10 @@ In the academic world, I studied Software Engineering at the Pontifical Catholic
 <br/>
 
 <div align="center">
+    <img align="center" src="https://komarev.com/ghpvc/?username=marlenemoraes&color=blueviolet" alt="Contagem de views de MarleneMoraes"/>
+</div>
+<br/>
+<div align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=marlenemoraes&theme=tokyonight&hide_border=true"/>
 </div>
+
