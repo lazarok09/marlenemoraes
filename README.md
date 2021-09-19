@@ -41,14 +41,13 @@ No mundo acadêmico, curso Engenharia de Software na Pontifícia Universidade Ca
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=marlenemoraes&color=blueviolet" alt="Contagem de views de MarleneMoraes"/>	
 </div>
-
 <br/>
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marlenemoraes&theme=tokyonight&hide_border=false"/>
+<div align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=marlenemoraes&theme=tokyonight&hide_border=true"/>
+</div>
 
 
-
-<br/>
 
 
 
